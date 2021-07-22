@@ -1,0 +1,8 @@
+TYPE_CHOICE_DOG = 'dog'
+TYPE_CHOICE_CAT = 'cat'
+TYPE_CHOICE_PARROT = 'parrot'
+TYPE_CHOICES = (
+    (TYPE_CHOICE_DOG, 'Dog'),
+    (TYPE_CHOICE_CAT, 'Cat'),
+    (TYPE_CHOICE_PARROT, 'Parrot')
+)
